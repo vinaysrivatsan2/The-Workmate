@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://vinay123:vinay123@devconnector-x6ufy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "SecetJwttoken",
+  "githubClientId": "dd0b208c6c6d2fefec55",
+  "githubSecret": "bf9533b8c123e6447d158840b0808e0f2c7fad48"
+}
